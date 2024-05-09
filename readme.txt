@@ -35,5 +35,13 @@ The Twitter dataset used for this analysis spans from [start date] to [end date]
 2. Implementing advanced machine learning techniques for deeper insights.
 3. Enhancing data visualization techniques for more informative visualizations.
 
+#References
+1. Y. K. Gupta and S. Kumari. (2020). A Study of Big Data Analytics using Apache Spark  
+with Python and Scala. IEEE, 471-478. doi: 10.1109/ICISS49785.2020.9315863.
+https://ieeexplore.ieee.org/document/9315863/ 
+2. Georgios, D., Aristeidis, K., Christos, K., K. G., Mylonas, P., Spyros, S. (2022). 
+Decomposing Twitter Graphs Based On Hashtag Trajectories: Mining And Clustering Paths Over MongoDB. https://doi.org/10.1145/3549737.3549768 
+3. Abdul Hafeez, Ali Hassan Sial. (2021). Comparative Analysis of Data Visualization 
+Libraries Matplotlib and Seaborn in Python. https://doi.org/10.30534/ijatcse/2021/391012021
 
 Feel free to reach out for any queries or assistance!
